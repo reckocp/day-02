@@ -58,7 +58,7 @@ li {
 .top-grey-box {
   background-color: #E8F0F5;
   height: 18em;
-  margin-top: 0;
+  margin-top: -17px;
 }
 .six-subdivs {
   background-color: #D1D3D7;
@@ -84,6 +84,20 @@ li {
 }
 .home {
   background-color: black;
-  height: 12.5em;
+  height: 11em;
   color: white;
+  text-align: center;
+  padding-top: 1em;
+}
+.line-1 {
+  background-color: black;
+}
+.line-2 {
+  background-color: black;
+}
+.auto-box {
+  background-color: #FFFFFF;
+  height: 2.3em;
+  width: 12.5em;
+  margin: 2em auto;
 }
